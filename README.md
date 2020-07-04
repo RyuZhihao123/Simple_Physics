@@ -10,6 +10,8 @@ However, for some specific conditions that require to process **free-form, manif
 
 1. add textures.
 2. bug (sometimes the ball might fly out of the container. check the `intersectTriangle`)
+3. current code can `only` process TRIANGLE meshes! If necessray, we can make it support other kinds of meshes.
+4. add gravity, resistance and energy loss.
 
 <div align=center><img width="600" src="https://github.com/RyuZhihao123/Simple_Physics/blob/master/img1.png"/></div>
 
