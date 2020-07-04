@@ -1,4 +1,4 @@
-# Simple_Physics
+# Simple_Physics_RyuZhihao123
 
 This system is devised for simulating the `collision detection` in `C++` with OpenGL and Qt platform. 
 
