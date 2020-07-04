@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/shader">
+        <file>res/GraphFShader.glsl</file>
+        <file>res/GraphVShader.glsl</file>
+        <file>res/PointsFShader.glsl</file>
+        <file>res/PointsVShader.glsl</file>
+        <file>res/barkFShader.glsl</file>
+        <file>res/barkVShader.glsl</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>res/bark/1.jpg</file>
+        <file>res/bark/2.jpg</file>
+        <file>res/bark/3.png</file>
+        <file>res/bark/4.png</file>
+        <file>res/bark/5.png</file>
+        <file>res/leaf/0default.png</file>
+        <file>res/leaf/11111dasdasd.png</file>
+        <file>res/leaf/timg (1).png</file>
+        <file>res/leaf/timg.png</file>
+        <file>res/leaf/叶子.png</file>
+        <file>res/leaf/叶子 - 副本.png</file>
+    </qresource>
+</RCC>
