@@ -11,7 +11,7 @@ However, for some specific conditions that require to process **free-form, manif
 1. add textures.
 2. bug (sometimes the ball might fly out of the container. check the `intersectTriangle`)
 
-
+<div align=center><img width="600" src="https://github.com/RyuZhihao123/Simple_Physics/blob/master/img1.png"/></div>
 
 
 
