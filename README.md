@@ -6,5 +6,15 @@ We knew that, the most complicated collision approaches provided by existing eng
 
 However, for some specific conditions that require to process **free-form, manifold objects**, we have to devise and adopt a more plausible method. No doubt such kind of methods must be time-cosuming. Here, we provide a way much simple inplementation for detect the collision among the free-form meshs (we take the efficiency into account as much as posible).
 
+### Not yet finished!!!!
+
+1. add textures.
+2. bug (sometimes the ball might fly out of the container. check the `intersectTriangle`)
+
+
+
+
+
+
 
 
